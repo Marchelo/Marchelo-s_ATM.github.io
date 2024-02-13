@@ -1,0 +1,1 @@
+{ime:'Luka',prezime:'Drobnjak',sifra:'2407',status:'true',balance:'200000'} 
